@@ -15,4 +15,4 @@ Focus areas:
 
 Full review document:
 
-[View Paper](DRS Review Paper.docx)
+[View Paper](./DRS%20Review%20Paper.docx)
